@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+requests
+colorama
+python-dotenv
+reportlab
